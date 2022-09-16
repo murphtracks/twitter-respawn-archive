@@ -41,7 +41,7 @@ Most of the users in this collection come from groups that frequently overlap an
 |**The Shed** |Racist and anitisemitic trolling group networked with "Nazi Twitter"|
 |**America First** |White supremacist / white nationalist followers of Nick Fuentes|
 |**Groyper / Fren** |Frog Twitter, primarily white nationalist accounts with frog avatars and varying levels of outward racism; the fren accounts tend to be milder than groypers, and these groypers align closer to the "OG Groyper" variety than the America First type|
-|**Nazi** |Antisemitic white supremacist accounts, many of which explicitly post Nazi symbolism and Holocaust denial. Dataset note: this label blankets many accounts and individuals may need further categorization|
+|**Nazi** |Antisemitic white supremacist accounts, many of which explicitly post Nazi symbolism and Holocaust denial. Dataset note: this label blankets many accounts and some individuals may need further categorization|
 |**Nazi Lounge** |Self-identified racist and antisemitic group that often organized on Discord and targeted Jewish individuals|
 |**AnitwtKKK** |Anime Twitter KKK consists of racist and antisemitic Anime accounts. Note: lots of lolicon mixed into the group|
 |**RGC** |The "Rapist Group Chat" is a self-identified incel group that often organizes on Discord and targets trans and Jewish people with doxxing and harassment; they are also known for recruitment and harassment of minors|
