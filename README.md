@@ -31,7 +31,7 @@ Currently, this abuse does still need to be [reported](https://twitter.com/nickm
 | **Approx Group** | Approximate group or friend network associated with the account. This is determined through interactions, friend lists, and follower lists. |
 | **Date Active** | Date last seen active online; typically the date of a recent tweet. |
 | **Status** | Account status. In addition to suspensions, this list also contains some accounts that have been abandoned, deactivated, and deleted by users. |
-| **Date Suspended** | Date suspended is logged manually as accounts are suspended. |
+| **Date Suspended** | Date suspended is logged as accounts are suspended. |
 
 ## Core Groups 
 Most of the users in this collection come from groups that frequently overlap and follow each other due to mutual interest in racism, antisemitism, and abusing others online.
