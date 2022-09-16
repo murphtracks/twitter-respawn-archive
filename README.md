@@ -27,7 +27,7 @@ Currently, this abuse does still need to be [reported](https://twitter.com/nickm
 ## Collection Guide
 | Category                    | About                                                                                                                                                                                                       |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Persona** | "Persona" is used in lieu of "person" because most respawners do not operate under their own identity. However, they are consistent with character building and branding and would repeatedly return under the same persona after suspension. |
+| **Persona** | "Persona" is used in lieu of "person" because most respawners do not operate under their own identity. However, they are consistent with character building and branding and would repeatedly return under the same persona after suspension. Some people operate multiple personas, and some personas are operated by multiple people. |
 | **Approx Group** | Approximate group or friend network associated with the account. This is determined through interactions, friend lists, and follower lists. |
 | **Date Active** | Date last seen active online; typically the date of a recent tweet. |
 | **Status** | Account status. In addition to suspensions, this list also contains some accounts that have been abandoned, deactivated, and deleted by users. |
