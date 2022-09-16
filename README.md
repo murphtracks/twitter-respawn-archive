@@ -16,13 +16,13 @@ Due to frequent name changes by evaders and potential tracking errors this data 
 
 
 ## About  
-This repository serves as an archive of accounts associated with racist and antisemitic trolls who would "respawn" or create new Twitter accounts repeatedly after getting suspended. The primary account list contains users who have held 5 or more accounts, with information gathered over several years by anonymous volunteers.   
+This repository serves as an archive of accounts associated with racist and antisemitic trolls who would "respawn" or create new Twitter accounts repeatedly after getting suspended. This list has been limited to users who have held 5 or more accounts, with information gathered over several years by anonymous volunteers.   
 
 Most of these trolls hide behind created character personas and work together in coordinated harassment campaigns when targeting victims online. To gain a better understanding of what these troll swarms can look like we highly recommend reading this blog post on [Visualizing Cyber Harassment](https://medium.com/swlh/visualizing-cyber-harassment-7c4cad50bc8c), or [any](https://twitter.com/sundersays/status/1374983785624825856) of [numerous](https://twitter.com/sundersays/status/1457683861689835525) Twitter [threads](https://twitter.com/gwensnyderPHL/status/1218978564122533890) written on the [subject](https://twitter.com/AnonCommieStan/status/1514310070049382406) over the years.
 
 The racist respawner problem isn't over, but the progress made this year against racist abuse from these networks is significant. There are steps that can be taken by social media platforms to reduce this kind of abuse, one of which has been fairly successful is to identify the worst of these troll swarms and [implement an effort to suspend on sight](https://twitter.com/sundersays/status/1494316292840439809).
 
-Currently, this abuse does still need to be reported when seen. You can help us track some of these abusers by submitting respawn information to our form [here](https://docs.google.com/forms/d/1ecCGLAuslCIxEGaEMqGXJf1xFHInfDDpUh8JyFWZVN0/). 
+Currently, this abuse does still need to be [reported](https://twitter.com/nickmartin/status/1498080493736054784) when seen. You can help us track some of these abusers by submitting respawn information to our form [here](https://docs.google.com/forms/d/1ecCGLAuslCIxEGaEMqGXJf1xFHInfDDpUh8JyFWZVN0/). 
 
 ## Collection Guide
 | Category                    | About                                                                                                                                                                                                       |
