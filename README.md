@@ -149,7 +149,5 @@ All accounts and archives should be independently verified to account for freque
 Data is for public research and to assist others in reporting ban evasions on Twitter.
 
 
-
-
 Any corrections can be sent to murphtracks@protonmail.com
 
