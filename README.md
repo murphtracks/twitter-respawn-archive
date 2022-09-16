@@ -49,7 +49,7 @@ Most of the users in this collection come from groups that frequently overlap an
 |**RW Gimmick** |Right wing gimmick accounts, typically run by one of the irony bros or someone competent enough to not get suspended as quickly. They acquire many followers quickly and still manage to get themselves suspended occasionally|
 |**Wignat** |White nationalist accounts unconcerned with optics who outwardly post Nazi accelerationist content|
 |**Nazi Prop** |Nazi propaganda account; users who edit videos to share with their audiences. Lots of 'spinny wheel' spinning black sun edits |
-|**Adj** |Adjacent; an account that frequently followed and interacted with the core group |
+|**Adj** |Adjacent; an account that frequently followed and interacted with members of a group but aren't as outwardly associated |
 
 ## Top 50 Offenders
 
