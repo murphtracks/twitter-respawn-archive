@@ -1,7 +1,7 @@
 # Twitter Respawn Archive
 ### Over 9000 abusive ban evasion accounts suspended by Twitter
 
-This repository holds a collection of Twitter accounts that were tracked by numerous anonymous volunteers primarily focusing on reporting racist, antisemitic, and abusive Twitter users from 2018-2022. These accounts were tracked for the purpose of reporting ban evaders who have returned to the platform.
+This repository holds a collection of Twitter accounts that were tracked by numerous anonymous volunteers primarily focusing on racist, antisemitic, and abusive Twitter users from 2018-2022. These accounts were tracked for the purpose of reporting ban evaders who have returned to the platform.
 
 Due to frequent name changes by evaders and potential tracking errors this data should be independently verified for accuracy.    
 ##
