@@ -38,7 +38,7 @@ Most of the users in this collection come from groups that frequently overlap an
 
 |Group                      |About                                                                                                                                                                                                       |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-|**The Shed** |Racist and anitisemitic trolling group networked with Nazi Twitter|
+|**The Shed** |Racist and anitisemitic trolling group networked with "Nazi Twitter"|
 |**America First** |White supremacist / white nationalist followers of Nick Fuentes|
 |**Groyper / Fren** |Frog Twitter, primarily white nationalist accounts with frog avatars and varying levels of outward racism; the fren accounts tend to be milder than groypers|
 |**Nazi** |Antisemitic white supremacist accounts, many of which explicitly post Nazi symbolism and Holocaust denial. Dataset note: this label blankets many accounts and individuals may need further categorization|
