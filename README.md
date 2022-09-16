@@ -11,7 +11,7 @@ Due to frequent name changes by evaders and potential tracking errors this data 
 ## ▪️[Twitter Respawns Part 2: Accounts J-Z](Data/Twitter-Respawns-Part-2.csv)
 ## ▪️[Full CSV Here](Data/Twitter-Respawns-Part-1.csv) 
 ## ▪️[Tools for fighting Twitter abuse](https://linktr.ee/twittertracking)
-## ▪️[Inform us of a respawn](https://docs.google.com/forms/d/1ecCGLAuslCIxEGaEMqGXJf1xFHInfDDpUh8JyFWZVN0/) 
+## ▪️[Help us track a respawn](https://docs.google.com/forms/d/1ecCGLAuslCIxEGaEMqGXJf1xFHInfDDpUh8JyFWZVN0/) 
 
 
 
