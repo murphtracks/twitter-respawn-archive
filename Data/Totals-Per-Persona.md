@@ -320,7 +320,7 @@
 | Pax                    | Tradcath / Anitwtkkk adj  | 8        |
 | Polyblank              | Anitwtkkk                 | 8        |
 | Rape 7                 | RGC                       | 8        |
-| Ridder / Fordo         | RGC                       | 8        |
+| Riddler / Fordo         | RGC                       | 8        |
 | Rob Banks              |                           | 8        |
 | Rob Recht              | Shed adj / Nazi           | 8        |
 | Swams                  | Fren / Shed adj           | 8        |
