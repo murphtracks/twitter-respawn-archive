@@ -70,7 +70,6 @@
 | Chix                   | Nazi Lounge               | 28       |
 | Frakes                 | The Shed                  | 28       |
 | Nonjob                 | Nazi                      | 28       |
-| OzBrah                 | Nazi Lounge               | 28       |
 | Pumba                  | The Shed                  | 28       |
 | Chemist Groyper        | America First             | 27       |
 | Honk Hogan             | The Shed                  | 27       |
@@ -101,6 +100,7 @@
 | Alles / WifeOfFloki    | The Shed                  | 20       |
 | Balrog                 | The Shed                  | 20       |
 | Khan                   | Nazi                      | 20       |
+| OzBrah                 | Nazi Lounge               | 20       |
 | Pen                    |                           | 20       |
 | Trans Ls               | RW Gimmick                | 20       |
 | Voki                   | Nazi Lounge               | 20       |
@@ -291,6 +291,7 @@
 | Chet                   | Nazi                      | 8        |
 | Chief Trumpster        | America First             | 8        |
 | Chungus                | Nazi                      | 8        |
+| Comfy Fren             | Fren                      | 8        |
 | Comfy Party            | America First             | 8        |
 | Defend Evropa          | Nazi                      | 8        |
 | Doggo / LoneArgos      | Groyper / WN              | 8        |
@@ -472,7 +473,7 @@
 | Teak Tree              |                           | 6        |
 | Ted / Forest           |                           | 6        |
 | Texan Groyper          | America First             | 6        |
-| Thuletide / SP         | America First             | 6        |
+| Thuletide / SP         |                           | 6        |
 | TradWife               | SinglePurposeHateAcct     | 6        |
 | Trevor                 | Nazi                      | 6        |
 | Varg Vikernes          | Nazi                      | 6        |
