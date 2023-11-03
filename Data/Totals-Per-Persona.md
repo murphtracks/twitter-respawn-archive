@@ -230,7 +230,6 @@
 | Tanya                  | Anitwtkkk                 | 11       |
 | Tin Pan Man            | America First             | 11       |
 | Unkle Frosty           | The Shed                  | 11       |
-| Anita                  | The Shed                  | 10       |
 | Aragorn                | The Shed                  | 10       |
 | Baku                   |                           | 10       |
 | Bane Biddix            |                           | 10       |
@@ -253,6 +252,7 @@
 | Yuicel                 | Anitwtkkk                 | 10       |
 | Zoomerhead             | America First             | 10       |
 | Absolute Zero          | Shed adj                  | 9        |
+| Anita                  | The Shed                  | 9        |
 | Anime Gamer            | Anitwtkkk                 | 9        |
 | Big Tex Zoomer         | America First             | 9        |
 | Blacktric              | Groyper                   | 9        |
